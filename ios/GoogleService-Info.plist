@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>65081990382-o211692vpocto87giml66phhpii1lm49.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.65081990382-o211692vpocto87giml66phhpii1lm49</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>65081990382-dpp94qps5qb232j5tomngthmu0jqljiv.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCWoeMA5yqc1wVyC5BwDGf6URC6SDCaSts</string>
+	<key>GCM_SENDER_ID</key>
+	<string>65081990382</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.food-ee.co.uk</string>
+	<key>PROJECT_ID</key>
+	<string>foodee-88fbb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>foodee-88fbb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:65081990382:ios:cdda03244eb482fae467ff</string>
+</dict>
+</plist>

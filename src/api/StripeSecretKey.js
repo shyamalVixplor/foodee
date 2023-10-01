@@ -1,0 +1,3 @@
+export default SecretKey =
+  'sk_test_51JAqgeJPL3XOeZcZvOjA7pHQJ0WR1uAsa2ObuFYQvOwYKiZqCn1RtLjIkffOayYbdR7TzWXJffK73e9afYa8jlZu00b1gjeFae';
+  

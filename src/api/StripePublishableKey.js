@@ -1,0 +1,3 @@
+export default PublishableKey =
+  'pk_test_51JAqgeJPL3XOeZcZjzU5jjNAHMp5Eq0dbzzJEUMqdgTk8g1Ib9A0LnzelqF8PFABaHlX8cer7piyYHwuDcDCdt4h00R24M0xZr';
+  

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "65081990382",
+    "project_id": "foodee-88fbb",
+    "storage_bucket": "foodee-88fbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65081990382:android:6434b30ec9ea23b4e467ff",
+        "android_client_info": {
+          "package_name": "com.foodee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65081990382-dpp94qps5qb232j5tomngthmu0jqljiv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodee",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "65081990382-lr96l8k7roobmst6453qvl11q272v1mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYHBlHN-joZyuYnj3KTCvy95npvBgsGOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65081990382-lr96l8k7roobmst6453qvl11q272v1mg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Foodee</string>    
+    <string name="facebook_app_id">696812754821678</string>
+    <string name="fb_login_protocol_scheme">fb696812754821678</string>
+    <string name="facebook_client_token">45073dcce9883eb2790030cf8a5e7f45</string>
+</resources>
